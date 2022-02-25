@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recantation of Daniel Scargill publickly made before the University of Cambridge, in Great St Maries, July 25. 1669.</title>
+            <author>Scargill, Daniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62304</idno>
+            <idno type="STC">Wing S823B</idno>
+            <idno type="STC">ESTC R219916</idno>
+            <idno type="EEBO-CITATION">99831363</idno>
+            <idno type="PROQUEST">99831363</idno>
+            <idno type="VID">35826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2043:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recantation of Daniel Scargill publickly made before the University of Cambridge, in Great St Maries, July 25. 1669.</title>
+                  <author>Scargill, Daniel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A. Maxwel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Church of England --  Early works to 1800.</term>
+               <term>Irreligion --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35826:1"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE Recantation OF <hi>DANIEL SCARGILL,</hi> Publickly made before the UNIVERSITY OF Cambridge, IN <hi>GREAT S<hi rend="sup">t</hi> MARIES, July</hi> 25. 1669.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwel.</hi> 1669.</p>
+            <pb facs="tcp:35826:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:35826:2"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35826:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="3" facs="tcp:35826:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>The Recantation of <hi>DANIEL SCARGILL,</hi> publickly made before the <g ref="char:V">Ʋ</g>niverſity of <hi>Cambridg,</hi> &amp;c.</head>
+            <p>WHereas I <hi>Daniel Scargill,</hi> late Batchelour of Arts, and Fellow of <hi>Corpus Chriſti</hi> Col<g ref="char:EOLhyphen"/>ledg, in the Univerſity of <hi>Cambridg,</hi> being through the inſtigation of the Devil poſ<g ref="char:EOLhyphen"/>ſeſſed with a fooliſh proud conceit of my own wit, and not having the fear of God before my eyes: Have lately vented and publickly aſſerted in the ſaid Uni<g ref="char:EOLhyphen"/>verſity, divers wicked, blaſphemous, and Atheiſtical poſitions, (particularly, That all right of Dominion is founded only in Power: That if the Devil were Omnipotent, he ought to be obeyed: That all moral Righteouſneſs is founded only in the poſitive Law of the Civil Magiſtrate: That the Scriptures of God are not Law further than they are enjoyned by the Civil Magiſtrate: That the Civil Magiſtrate is to be obeyed, though he ſhould forbid the Worſhip of God, or command Theft, Murder, and Adultery) profeſſing that I gloried to be an <hi>Hobbiſt</hi> and an <hi>Atheiſt;</hi> and vaunt<g ref="char:EOLhyphen"/>ing, that <hi>Hobbs</hi> ſhould be maintained by <hi>Daniel</hi> that is by me. Agreeably unto which principles and poſitions, I have lived in great licentiouſneſs, ſwearing raſhly, drinking intemperately, boaſting my ſelf inſolently,
+<pb n="4" facs="tcp:35826:4"/>
+               <!-- PDF PAGE 46 -->corrupting others by my pernicious principles and ex<g ref="char:EOLhyphen"/>ample, to the high Diſhonour of God, the Reproach of the Univerſity, the Scandal of Chriſtianity, and the juſt offence of mankind. And whereas the Vicechan<g ref="char:EOLhyphen"/>cellour and Heads of the ſaid Univerſity, upon notice of theſe my foul enormities, upon a ful examination and clear conviction of theſe premiſed offences, after ſu<g ref="char:EOLhyphen"/>ſpenſion from my Degree, did expel me out of the ſaid Univerſity: Now I the ſaid <hi>Daniel Scargill,</hi> after fre<g ref="char:EOLhyphen"/>quent conſideration, ſtrict examination, and ſerious re<g ref="char:EOLhyphen"/>view of the ſaid Poſitions, do find by the grace of that God whom I had deny'd, that they are not only of dangerous and miſchievous conſequence, inconſiſtent with the Being of God, and deſtructive to human ſo<g ref="char:EOLhyphen"/>ciety; but that they are utterly falſe, the ſuggeſtions of a lying ſpirit, wholly againſt my own judgment reſol<g ref="char:EOLhyphen"/>ved upon better conſideration, as well as againſt the common ſenſe of mankind. And I do freely acknow<g ref="char:EOLhyphen"/>ledg the proceedings and ſentence of my Governors, the Vicechancellor and Heads of the Univerſity, to be juſt and equal, agreeable to the duty of their place, and the Truſt repoſed in them: That they could not have done leſs to vindicate the Divine Honour and ſuppreſs that Miſchief growing up in this Age, which no former hath known.</p>
+            <p>And now I adore and bleſs the higheſt Majeſty of God in his infinite mercy to me, that he hath not ſuffered me to go on unreclaimed in my enormous principles and practices, but hath made my face to be aſhamed, that I may ſeek his Name. <hi>Righteouſneſs belongeth unto thee, O Lord; but unto me,</hi> and to thoſe who have ſeduced me, and to thoſe who have been ſeduced by me, <hi>ſhame and confuſion of face.</hi> Oh what height of wickedneſs had I
+<pb n="5" facs="tcp:35826:4"/>
+               <!-- PDF PAGE 46 -->arrived unto! For I muſt confeſs my ſelf guilty of im<g ref="char:EOLhyphen"/>pleading the Divine Majeſty at the Tribunal of human Wit, making man judg whether God ſhould be God or no. Nay, whereas the Devil, my tempter, to whom I had hearkned, doth believe and tremble, I vile wretch have been void of the Faith and fear of God, in the ma<g ref="char:EOLhyphen"/>nifold manifeſtations of him. Wherefore I humbly ask pardon of God above all, whom I have blaſphemed of my Governors in the Univerſity, whom I have diſturb<g ref="char:EOLhyphen"/>ed; of all Chriſtians, and all men, for the great offence I have given unto all: more eſpecially of ſo many as have been miſled into any error or vice by me. And I do alſo humbly and earneſtly beſeech all men, eſpecially ſo many of the younger Scholars as have been ſeduced by me (who now abhor what I formerly boaſted to aſſert) that they beware, by my example, of the moſt ſubtile inſinuations of the Devil, in the vain oſtentation of their own wit. <hi>That they lean not to their own underſtan<g ref="char:EOLhyphen"/>ding,</hi> but conſult the holy Scriptures, the lively Oracles of God, That from thence they may learn <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>to be wiſe unto ſobriety:</hi> as the holy Apoſtle with great wiſdom requires. And now I humbly hope, and truſt in the infinite mercy of that God againſt whom I had audaciouſly opened my unhallowed mouth, that He who hath promiſed that all ſin and blaſphemy ſhall be forgiven unto men (excepting only that reſolved malicious blaſphemy againſt the Holy Ghoſt) will be graciouſly pleaſed to glorifie his mercy in the forgive<g ref="char:EOLhyphen"/>neſs of my moſt deteſtable errors, and abominable ſins. And I thank God that he hath awakened me in good meaſure to a juſt deteſtation of the accurſed Poſitions aſſerted by me, and of all other like wicked principles.</p>
+            <p>Wherefore, I do here in the preſence of God, Angels
+<pb n="6" facs="tcp:35826:5"/>
+               <!-- PDF PAGE 47 -->and men, caſt my ſelf down in a deep dread of the juſt judgments and vengeance of God upon the accurſed Atheiſm of this age, acknowledging my ſelf to be high<g ref="char:EOLhyphen"/>ly guilty of the growth and ſpreading thereof; having contributed what my profane wit could deviſe, or my foul mouth expreſs, to inſtill it into others, to confirm them therein. And I do profeſs, I believe (and judg it moſt reaſonable ſo to believe) that the openly profeſ<g ref="char:EOLhyphen"/>ſed Atheiſm of ſome, and the ſecret Atheiſm of others, is the accurſed root of all that abounding wickedneſs, perjury, ſacriledg, debauchery, and uncleanneſs, in this preſent age: That in a deep ſenſe of that wretched part I have acted in the propagating thereof, I do now abhor my ſelf in duſt and aſhes, and that from the bot<g ref="char:EOLhyphen"/>tom of my heart, I do diſclaim, renounce, deteſt, and abhor thoſe execrable Poſitions aſſerted by me or any other: particularly,
+<list>
+                  <item>1. <hi>That all right of Dominion is founded only in Power.</hi>
+                  </item>
+                  <item>2. <hi>That all moral Righteouſneſs is founded only in the Law of the Civil Magiſtrate.</hi>
+                  </item>
+                  <item>3. <hi>That the Holy Scriptures are made Law only by Ci<g ref="char:EOLhyphen"/>vil Authority.</hi>
+                  </item>
+                  <item>4. <hi>That whatſoever the Civil Magistrate commands, is to be obeyed, notwithſtanding contrary to Divine Moral Laws.</hi>
+                  </item>
+                  <item>5. <hi>That there is a deſirable glory in being, and being re<g ref="char:EOLhyphen"/>puted an Atheiſt:</hi> which I implied when I expreſly af<g ref="char:EOLhyphen"/>firmed that I gloried to be an <hi>Hobbiſt</hi> and an Atheiſt.</item>
+               </list>
+            </p>
+            <p>For theſe unhallowed aſſertions and expreſſions, I now find ſuch inward contrition and remorſe, that I
+<pb n="7" facs="tcp:35826:5"/>
+               <!-- PDF PAGE 47 -->pray God his mercy may withhold me from relapſe, or his Judgments prevent it. But do I think that a bare Recantation can ſatisfie for my prodigious offences? No, Let me do penance all my days, ſubmitting my ſelf to Gods will, and the charity of pious minds; and whatſoever my portion may be in this world, Let me live and dye in the fear of God, and the faith of Chriſt, <hi>Amen.</hi>
+            </p>
+            <p>Now leſt any one ſhould miſtake or ſuſpect this con<g ref="char:EOLhyphen"/>feſſion and unfeigned renunciation of my ſinful and ac<g ref="char:EOLhyphen"/>curſed errors, for an act of civil obedience or ſubmiſſi<g ref="char:EOLhyphen"/>on in me, performed according to my former princi<g ref="char:EOLhyphen"/>ples, at the command of my Superiors, in outward ex<g ref="char:EOLhyphen"/>preſſion of words, though contrary to my judgment and inward thoughts of my heart; or that I have not now expreſſed the moſt ſincere and ſecret ſenſe of my ſoul: I call the Searcher of all hearts to witneſs, that I loath and abhor ſuch practices as the baſeſt and moſt damnable hypocriſie: That from my heart and ſoul I deteſt ſuch principles in all perſons, as worſe than the baſeſt villanies and reſervations, which the Jeſuits are ſaid to practiſe or allow. And I openly avow, that I do acknowledg, that all perſons ſo principled, ought to be held by all mankind as the moſt dangerous and declared Enemies of the common Faith amongſt men. That they are not to be truſted upon any obligation of their Faith, or pretenſions to Piety, Loyalty, or com<g ref="char:EOLhyphen"/>mon Honeſty, in any Corporation, Colledg, Univerſi<g ref="char:EOLhyphen"/>ty, City, Common-wealth, or Kingdom: but, that by thoſe Principles, deſtructive to all Society and Com<g ref="char:EOLhyphen"/>merce amongſt men, they may and do delude and defeat all Oaths and Proteſtations, all Faith given to God or man: They may and will comply, if their own Intereſt
+<pb n="8" facs="tcp:35826:6"/>
+               <!-- PDF PAGE 48 -->or Advantage prompt them to it, with any Invader or Uſurper: with any Faction or growing Sect, however deſtructive to all Order, and the very being of human Society in the world. I believe alſo, and openly avouch, That no Power upon earth, no perſwaſion or imagina<g ref="char:EOLhyphen"/>tion about natural Right; no opinion in pretended Philoſophy, concerning ſelf-preſervation, can free me from the obligation that is now upon me, in this my open profeſſion of Repentance for my accurſed errors and grievous ſins, to ſpeak the truth in ſincerity before God and man.</p>
+            <p>This Recantation, and ſincere Profeſſion, I make willingly and freely of my own mind and choice: not in compliance with the command or will of any other, not upon deſign to gain a better opinion amongſt men in the world; not for any worldly advantage, profit, or ſelf-end of my own: but out of a hearty deteſtati<g ref="char:EOLhyphen"/>on of my foul errors and ſins: and I am glad of this opportunity to disburden my ſoul, oppreſſed with the weight of the ſame.</p>
+            <closer>
+               <signed>So help me God. <hi>DANIEL SCARGILL.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:35826:6"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </body>
+   </text>
+</TEI>
